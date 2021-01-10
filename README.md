@@ -9,10 +9,10 @@ To demonstrate the Python libraries for Machine Learning
 To classify Supervised vs. Unsupervised algorithms
 To underestand the basics of regression
 To apply Simple and Multiple, Linear and Non-Linear Regression on a dataset for estimation.
-To underestand different Classification methods.
+To understand different Classification methods.
 To apply Classification algorithms on various datasets to solve real world problems.
-To underestand evaluation methods in Classification.
-To underestand different types of clustering algorithms.
+To understand evaluation methods in Classification.
+To understand different types of clustering algorithms.
 To apply clustering on different types of datasests.
 To understand the purpuse and mechanizem of recommendation systems.
 To understand different types of recommander systems.
